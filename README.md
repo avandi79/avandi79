@@ -34,8 +34,7 @@ Role-based login, citizen registry, vaccine management, and vaccination records.
 
 🔹 Customer Churn Prediction (ML)  
 End-to-end machine learning pipeline with preprocessing, feature engineering, and model comparison.  
-➡️ *(Add GitHub link here)*
-
+➡️ https://github.com/avandi79/Customer-churn-m1
 ---
 
 🎯 Current Focus  
@@ -47,6 +46,7 @@ End-to-end machine learning pipeline with preprocessing, feature engineering, an
 
 📫 Connect  
 You can reach me through GitHub or email.
+
 Email: fatemehnaghdi13792000@gmail.com
 ---
 
