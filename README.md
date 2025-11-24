@@ -30,7 +30,7 @@ Right now, I'm expanding my portfolio in preparation for a Master's in **Artific
 🔹 Vaccination Management System  
 Desktop application with SQL Server backend (Bachelor Thesis).  
 Role-based login, citizen registry, vaccine management, and vaccination records.  
-➡️ *(Add GitHub link here)*
+➡️ https://github.com/avandi79/Vaccination-management-Csharp
 
 🔹 Customer Churn Prediction (ML)  
 End-to-end machine learning pipeline with preprocessing, feature engineering, and model comparison.  
