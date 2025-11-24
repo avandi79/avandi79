@@ -3,7 +3,7 @@ Hi there, I'm Fatemeh 👋
 Computer Engineering Graduate | AI & ML Enthusiast | Software Developer
 
 I work across both **software engineering** and **machine learning**, building projects that are clean, structured, and reproducible.  
-Right now, I'm expanding my portfolio in preparation for a Master's in **Artificial Intelligence** in Europe.
+Right now.
 
 ---
 
